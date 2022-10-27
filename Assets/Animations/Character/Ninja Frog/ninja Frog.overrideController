@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ninja Frog
+  m_Controller: {fileID: 9100000, guid: 164a082db165b634b97a49a7d50612b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 17b3ae4ec2d333742bd4de7dfbd15836, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fb25158226ebc274ebf6f3930217c1f7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f773e53c395d90149b4180241f5e3f95, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6c53646a8c23ff44f945312ea770a786, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fe616d2e3eadf68479f2ef7551856966, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bd01619e036659049abd0eba84eca21f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 36090e981d024ec4c9f4f4fecb2bf7a1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 42026ed993987e745b22060430b85700, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ee13eb0854ccdfc46a0d0fb10aface32, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0a55af453fb83164b98acccfa6260126, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a0d35a57a838f8e4f8e6379c81253088, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f55896ff790883a4f8991ddd2879ce0d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 068c0689f3989ba4f803a45e2020a383, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9b34a0a4b95f2264391bae0c8d54c6c0, type: 2}

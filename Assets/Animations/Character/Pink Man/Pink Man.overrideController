@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pink Man
+  m_Controller: {fileID: 9100000, guid: 164a082db165b634b97a49a7d50612b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 17b3ae4ec2d333742bd4de7dfbd15836, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5c5c12b00f33ec247902080d31c361d7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f773e53c395d90149b4180241f5e3f95, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 84034ed726f7d61479b9c1a39b33416c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fe616d2e3eadf68479f2ef7551856966, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6c6c04751c8cb6046b597759c76468ea, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 36090e981d024ec4c9f4f4fecb2bf7a1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9c7e664ec15c65b47ac54a04048c3050, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ee13eb0854ccdfc46a0d0fb10aface32, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e7d34866dcfec934a8dee064692bd314, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a0d35a57a838f8e4f8e6379c81253088, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dc6eca18a2283c94fb580f53c7372cae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 068c0689f3989ba4f803a45e2020a383, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 61ed5e86d6dc1664086544f95aa2eb1a, type: 2}
